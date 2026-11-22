@@ -34,7 +34,7 @@ There are 11 links between them. Two of them are many to many: Clan and Tourname
 
 ## ERD
 
-![ClanArena ERD](ClanArena_ERD.png)
+[![ClanArena ERD](ClanArena_ERD.png)](https://github.com/nx7iz/ClanArena/blob/main/ClanArena.drawio.png)
 
 You can open `ClanArena_ERD.xml` in [draw.io](https://app.diagrams.net) to see and edit the diagram.
 
@@ -62,3 +62,4 @@ Proposal stage. The SQL files, data and front end will be added later.
 ## Author
 
 Muhammad Noman
+Shahzaib Sadiq
